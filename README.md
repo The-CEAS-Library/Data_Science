@@ -2,14 +2,11 @@
 A workshop on the data manipulation, visualization and an introduction to machine learning
 
 #### **Outline** <br>
-* Variables and Data Types
-* Control Flow
-  * Conditional Statements
-  * Loops
-* Functions
-* Arrays with numpy
-* Plotting with matplotlib
-
+* Data Manipulation with pandas
+* Visualization
+  * matplotlib
+  * seaborn
+* Introduction to Machine Learning
 
 
 **Note**: Please click **'launch binder'** button below to launch the Binder. A Binder is an interactive environment that allows you to run code in the web browser without any need for installations. <br>
